@@ -23,7 +23,7 @@ const C = {
         "<strong>A nossa história.</strong>",
         "Aquela que começou de um jeito simples, meio desajeitado, cheia de indiretas, vergonha e, acima de tudo, sentimentos que talvez a gente ainda nem soubesse explicar."
       ],
-      photo:null, photoLabel:"Foto dos dois"
+      photo:"imagens/foto01.png", photoLabel:"Foto dos dois"
     },
     {
       type:"text", eyebrow:"📚 2022 — Quando tudo começou", title:"",
@@ -33,7 +33,7 @@ const C = {
         "A gente queria...",
         "<strong>mas nenhum dos dois tinha coragem suficiente para dar o primeiro passo.</strong>"
       ],
-      photo:null, photoLabel:"Foto da época / foto antiga"
+      photo:"imagens/foto02.png", photoLabel:"Foto da época / foto antiga"
     },
     {
       type:"text", eyebrow:"💋 12/03/2023 — 03:41", title:"O nosso primeiro beijo.",
@@ -45,7 +45,7 @@ const C = {
         "Como se, por alguns segundos, o mundo tivesse parado e só existissem nós dois.",
         "E, depois daquele momento, meu desejo de te beijar novamente só aumentou."
       ],
-      photo:null, photoLabel:"Foto / memória relacionada ao primeiro beijo"
+      photo:"imagens/foto03.png", photoLabel:"Foto / memória relacionada ao primeiro beijo"
     },
     {
       type:"text", eyebrow:"🌀 Os nossos enrolos", title:"",
@@ -54,7 +54,7 @@ const C = {
         "Até que, no dia <strong>07/09/2023</strong>, fui conhecer seu pai.",
         "E, naquela época, a gente já brincava com a sua mãe sobre ela ter que me aguentar como genro."
       ],
-      photo:null, photoLabel:"Foto / momento dessa época"
+      photo:"imagens/foto04.png", photoLabel:"Foto / momento dessa época"
     },
     {
       type:"text", eyebrow:"👨‍👩‍👧 Um passo a mais", title:"",
@@ -64,7 +64,7 @@ const C = {
         "<strong>quando você foi oficialmente pedida em namoro.</strong>",
         "Naquele Ano-Novo, com fogos de artifício e contagem regressiva na roda-gigante."
       ],
-      photo:null, photoLabel:"Foto da roda-gigante / Ano-Novo"
+      photo:"imagens/foto05.png", photoLabel:"Foto da roda-gigante / Ano-Novo"
     },
     {
       type:"text", eyebrow:"🎆 Aquela virada", title:"",
@@ -74,7 +74,7 @@ const C = {
         "Mas acho que, mesmo se eu esquecesse de todas as datas..."
       ],
       quote:"eu jamais esqueceria de você.",
-      photo:null, photoLabel:"Animação / foto favorita dos dois"
+      photo:"imagens/foto06.png", photoLabel:"Animação / foto favorita dos dois"
     },
     {
       type:"words", eyebrow:"❤️ Depois daquela virada", title:"",
@@ -84,7 +84,7 @@ const C = {
       ],
       words:["paixão","companheirismo","confiança","amizade","intimidade"],
       after:"E incontáveis conversas que, às vezes, nem precisavam fazer sentido para serem especiais.",
-      photo:null, photoLabel:"Sequência de fotos do casal"
+      photo:"imagens/foto06.png", photoLabel:"Sequência de fotos do casal"
     },
     {
       type:"text", eyebrow:"🥰 Eu te amo por você ser você", title:"",
@@ -97,7 +97,7 @@ const C = {
         "Isso por si só já deveria valer um prêmio.",
         "Afinal, não é qualquer pessoa que consegue sobreviver às minhas brincadeiras, às minhas piadas sem graça e ao meu jeito insuportável todos os dias, hahaha."
       ],
-      photo:null, photoLabel:"Foto dela"
+      photo:"imagens/foto07.png", photoLabel:"Foto dela"
     },
     {
       type:"text", eyebrow:"😂 Nós", title:"",
@@ -108,7 +108,7 @@ const C = {
         "Porque..."
       ],
       emphasis:"estamos juntos nessa.",
-      photo:null, photoLabel:"Montagem com várias fotos"
+      photo:"imagens/foto08.png", photoLabel:"Montagem com várias fotos"
     },
     {
       type:"text", eyebrow:"🌱 Crescendo juntos", title:"",
@@ -119,7 +119,7 @@ const C = {
         "Porque, enquanto eu tiver você ao meu lado...",
         "<strong>eu sei que não estarei sozinho.</strong>"
       ],
-      photo:null, photoLabel:"Foto mais recente dos dois"
+      photo:"imagens/foto09.png", photoLabel:"Foto mais recente dos dois"
     },
     {
       type:"birthday", eyebrow:"💌 Depois dessa longa introdução...", title:"FELIZ ANIVERSÁRIO, MEU AMOR! ❤️",
@@ -129,7 +129,7 @@ const C = {
         "Que esse novo ciclo da sua vida seja um verdadeiro recomeço.",
         "Que venha acompanhado de aprendizados, crescimento, conquistas, sonhos realizados e muitos motivos para você sorrir."
       ],
-      photo:null, photoLabel:"Animação / foto dela"
+      photo:"imagens/foto10.png", photoLabel:"Animação / foto dela"
     },
     {
       type:"text", eyebrow:"🤍 Sempre ao seu lado", title:"",
@@ -145,7 +145,7 @@ const C = {
         "<strong>além de ser seu namorado, eu sou seu melhor amigo.</strong>",
         "E vou continuar sendo."
       ],
-      photo:null, photoLabel:"Foto dos dois"
+      photo:"imagens/foto11.png", photoLabel:"Foto dos dois"
     },
     {
       type:"text", eyebrow:"🌎 O nosso futuro", title:"",
@@ -157,7 +157,7 @@ const C = {
         "E, principalmente...",
         "<strong>obrigado por ser exatamente quem você é.</strong>"
       ],
-      photo:null, photoLabel:"Foto favorita dos dois"
+      photo:"imagens/foto12.png", photoLabel:"Foto favorita dos dois"
     },
     {
       type:"text", eyebrow:"🍝 Uma última coisa...", title:"",
@@ -167,7 +167,7 @@ const C = {
         "E você sabe que isso é coisa séria.",
         "Minha sarninha. 🤍"
       ],
-      photo:null, photoLabel:"Foto fofa / divertida"
+      photo:"imagens/foto13.png", photoLabel:"Foto fofa / divertida"
     },
     {
       type:"text", eyebrow:"🎂 Feliz aniversário, meu amor", title:"",
@@ -177,7 +177,7 @@ const C = {
         "E que, daqui a muitos e muitos anos, quando olharmos para trás, possamos lembrar de tudo isso e pensar:"
       ],
       quote:"“Olha só aonde chegamos.”",
-      photo:null, photoLabel:"Animação de passagem do tempo"
+      photo:"imagens/foto14.png", photoLabel:"Animação de passagem do tempo"
     },
     {
       type:"forever", eyebrow:"♾️ Para sempre", title:"",
@@ -194,7 +194,7 @@ const C = {
         "<strong>do seu insuportável, Yuri,</strong>",
         "<strong>seu Felps =) ❤️</strong>"
       ],
-      photo:null, photoLabel:"Foto final dos dois"
+      photo:"imagens/foto15.png", photoLabel:"Foto final dos dois"
     },
     {
       type:"end", title:"Fim?", text:[
